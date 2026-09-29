@@ -32,7 +32,8 @@
 
 # \### Week 1: SQL Põhitõed
 
-# \- (tulemas...)
+# \- SELECT, FROM, WHERE, ORDER BY, LIMIT, COUNT, DISTINCT, AS käskluste proovimine✅
+
 
 # &#x20;
 
