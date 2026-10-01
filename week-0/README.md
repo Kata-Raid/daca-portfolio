@@ -1,3 +1,3 @@
-portfolio/week-0/NotebookLM.md
+# portfolio/week-0/NotebookLM.md
 
 
