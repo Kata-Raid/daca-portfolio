@@ -1,3 +1,3 @@
-# C: NotebookLM Seadistaja
+portfolio/week-0/NotebookLM.md
 
 
