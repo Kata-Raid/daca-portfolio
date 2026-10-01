@@ -1,19 +1,17 @@
-# DACA Portfoolio -- [Kata Raid]
+# Nädal 1: SQL Basics -- UrbanStyle'i andmete uurimine
 
-## Minust
-Olen kogukonna arendamise tudeng, kellel on taust andmete analüüsis akadeemilises mahus. Liitusin kavaga, et enda oskusi arendada ja analüütiku töökohale vastavaid teadmiseid saada.
+## Mida ma tegin
+- Uurisin sales tabelit SQL päringutega
+- Leidsin, et kaupluse asukohata müüke oli 5204
+- Osalesin meeskonna andmemaastiku koostamisel
 
-## Eesmärk
-Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
+## Peamised õpid
+- [Õppetund 1] Oskan Supabaseist SQL dokumenti alla laadida
+- [Õppetund 2] 
 
-## Nädala kaupa
-| Nädal | Teema | Staatus |
-|-------|-------|---------|
-| 0 | Onboarding | Läbi |
-| 1 | SQL Basics | Käimas |
-| 2 | SQL Cleaning | Tulemas |
-| 3 | SQL JOINs | Tulemas |
-| 4 | SQL Aggregation | Tulemas |
-| 5-6 | Visualiseerimine | Tulemas |
-| 7-8 | Python | Tulemas |
-| 9-10 | Portfoolio + Karjäär | Tulemas |
+## Failid
+- `week1_[tabel]_exploration.sql` -- minu SQL päringud
+- `week1_results_screenshot.png` -- tulemuste pilt
+
+## Meeskonna töö
+- [Link meeskonna Data Landscape slaidile]
