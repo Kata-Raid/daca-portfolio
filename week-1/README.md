@@ -10,7 +10,7 @@
 - [Õppetund 2] 
 
 ## Failid
-- `week1_[tabel]_exploration.sql` -- minu SQL päringud
+- `` -- minu SQL päringud
 - `week1_results_screenshot.png` -- tulemuste pilt
 
 ## Meeskonna töö
