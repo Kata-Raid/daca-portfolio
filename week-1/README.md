@@ -11,7 +11,7 @@
 
 ## Failid
 - `` -- minu SQL päringud
-- `week1_results_screenshot.png` -- tulemuste pilt
+- `[week1_results_screenshot.png](https://github.com/Kata-Raid/daca-portfolio/blob/7beec958ae0ee1248e3a9148037a0a3adc58a73a/week-1/individual/week1_results_screenshot.png)` -- tulemuste pilt
 
 ## Meeskonna töö
 - [Link meeskonna Data Landscape slaidile]
