@@ -1,22 +1,19 @@
 [# Isikliku töö ülevaade](https://github.com/mariannesisask-afk/urbanstyle-turundus/blob/42e01dc1d04b11b76ab29a5eb7d4e05d6d66cbdc/portfolio/week-0/NotebookLM.md)
 
-# DACA Portfoolio -- [Sinu Nimi]
+DACA Portfoolio -- [Kata Raid]
+Minust
+Olen kogukonna arendamise tudeng, kellel on taust andmete analüüsis akadeemilises mahus. Liitusin kavaga, et enda oskusi arendada ja analüütiku töökohale vastavaid teadmiseid saada.
 
-## Minust
-[Kirjuta 2-3 lauset enda kohta. Miks sa liitusid DACA programmiga?]
-
-## Eesmärk
+Eesmärk
 Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
 
-## Nädala kaupa
-| Nädal | Teema | Staatus |
-|-------|-------|---------|
-| 0 | Onboarding | Käimas |
-| 1 | SQL Basics | Tulemas |
-| 2 | SQL Cleaning | Tulemas |
-| 3 | SQL JOINs | Tulemas |
-| 4 | SQL Aggregation | Tulemas |
-| 5-6 | Visualiseerimine | Tulemas |
-| 7-8 | Python | Tulemas |
-| 9-10 | Portfoolio + Karjäär | Tulemas |
-
+Nädala kaupa
+Nädal	Teema	Staatus
+0	Onboarding	Läbi
+1	SQL Basics	Käimas
+2	SQL Cleaning	Tulemas
+3	SQL JOINs	Tulemas
+4	SQL Aggregation	Tulemas
+5-6	Visualiseerimine	Tulemas
+7-8	Python	Tulemas
+9-10	Portfoolio + Karjäär	Tulemas
