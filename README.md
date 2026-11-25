@@ -1,8 +1,8 @@
 # DACA Portfoolio
  
 **Programm:** Data Analyst Career Accelerator (DACA)
-**Osaleja:** [Sinu Nimi]
-**Algus:** [Kuupäev]
+**Osaleja:** [Katariina Raid]
+**Algus:** [21.09.2026]
  
 ## Kirjeldus
  
@@ -29,6 +29,6 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
  
 ## Kontaktc
  
-- **GitHub:** [github.com/sinu-username](https://github.com/sinu-username)
-- **Email:** sinu.email@gmail.com
+- **GitHub:** [github.com/Kata-Raid](https://github.com/kata-raid)
+- **Email:** kata.raid@pm.me
 
