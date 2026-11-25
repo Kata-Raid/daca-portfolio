@@ -2,11 +2,11 @@
 
 &#x20;
 
- \*\*Programm:\*\* Data Analyst Career Accelerator (DACA)
+#\*\*Programm:\*\* Data Analyst Career Accelerator (DACA)
 
- \*\*Osaleja:\*\* \[Katariina Raid]
+#\*\*Osaleja:\*\* \[Katariina Raid]
 
-\*\*Algus:\*\* \[23.09.2026]
+#\*\*Algus:\*\* \[23.09.2026]
 
 &#x20;
 
