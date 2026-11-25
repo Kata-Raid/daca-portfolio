@@ -6,7 +6,7 @@
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpid
-- [Õppetund 1] Oskan Supabaseist SQL dokumenti alla laadida (läbi Notebooki)
+- Õppetund 1 Oskan Supabaseist SQL dokumenti alla laadida (läbi Notebooki)
 
 ## Failid
 - [Daca portfoolio](https://github.com/Kata-Raid/daca-portfolio/blob/cf7d7d2f8788b24d6762b9b47a769023af427291/week-1/individual/week1_sales_exploration.sql) -- minu SQL päringud
