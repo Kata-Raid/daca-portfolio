@@ -1,12 +1,12 @@
-# Nädal 4: SQL Basics -- UrbanStyle'i andmete uurimine
+# Nädal 4: SQL Agregatsioon
 
 ## Mida ma tegin
-- Uurisin sales tabelit SQL päringutega
-- Leidsin, et kaupluse asukohata müüke oli 5204
+- Lõin inventuuristatistika
+- Analüüsisin tootekategooriaid, laoseisu ja müüdud vs laos suhteid, kasutades GROUP BY, HAVING ja window functions, et leida probleemsed kategooriad.
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpid
-- [Õppetund 1] Oskan Supabaseist SQL dokumenti alla laadida
+- [Õppetund 1] Oskan Kasutada GROUP BY ja HAVING funktsioone
 - [Õppetund 2] 
 
 ## Failid
