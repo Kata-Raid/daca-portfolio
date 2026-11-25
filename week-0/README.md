@@ -10,10 +10,10 @@ Eesmärk
 Nädala kaupa
 Nädal	Teema	Staatus
 0	Onboarding	Läbi
-1	SQL Basics	Käimas
-2	SQL Cleaning	Tulemas
-3	SQL JOINs	Tulemas
-4	SQL Aggregation	Tulemas
-5-6	Visualiseerimine	Tulemas
-7-8	Python	Tulemas
-9-10	Portfoolio + Karjäär	Tulemas
+1	SQL Basics	Läbi
+2	SQL Cleaning	Läbi
+3	SQL JOINs	Läbi
+4	SQL Aggregation	Läbi
+5-6	Visualiseerimine	Läbi
+7-8	Python	Läbi
+9-10	Portfoolio + Karjäär	Läbi
