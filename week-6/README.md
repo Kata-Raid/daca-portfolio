@@ -10,8 +10,7 @@
 - [Õppetund 2] Oskan tuua välja vaid tähtsaima esitluses
 
 ## Failid
-- [Investoride Dashboard](<img width="546" height="311" alt="image" src="https://github.com/user-attachments/assets/9b78060a-2d85-4c84-a658-d3770ecc137c" />
-)
+- [Investoride Dashboard](https://github.com/Kata-Raid/daca-portfolio/blob/main/week-6/Tallinna_poe_%C3%BClevaade.png)
 
 ## Meeskonna töö
 - [W5_sessioon3_demo](https://docs.google.com/presentation/d/1JDoqBSPOq30tIuXaBG0nYI7aHiU0654mOjI_d42owHg/edit?usp=sharing)
