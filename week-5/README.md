@@ -10,7 +10,7 @@
 - [Õppetund 2] Oskan valida sobiva diagrammi tüübi vastavalt esitavale infole
 
 ## Failid
-- [Investoride Dashboard]()
+- [Investoride Dashboard](https://github.com/Kata-Raid/daca-portfolio/blob/main/week-5/urbanstyles_investors_dashboard.png)
 
 ## Meeskonna töö
 - [W5_sessioon3_demo](https://docs.google.com/presentation/d/1aMea4C78ohhTKHd2bGgwj7r-7XA-iMjRVGsUb9kKnoM/edit?usp=sharing)
