@@ -11,8 +11,5 @@
 - [Õppetund 2] Oskan kasutadavarasemalt tehtuid DataFrame´e visualiseerimiseks
 
 ## Failid
-- [Vizualiser_export]()
-
-## Meeskonna töö
-- [W7_sessioon3_demo](https://docs.google.com/presentation/d/12uFSfnfwM7g_wpSsCB80iVCUt2_qIWbxNVRI2Ty02pg/edit?usp=sharing)
+- [Vizualiser_export](https://github.com/Kata-Raid/daca-portfolio/blob/main/week-8/visualizer_export.py)
 
