@@ -15,10 +15,10 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Supabase seadistamine ✅
  
 ### Week 1: SQL Põhitõed
-- (tulemas...)
+- 
  
 ### Week 2: SQL Andmete Puhastamine
-- (tulemas...)
+- 
  
 ## Oskused
  
