@@ -13,7 +13,6 @@ Selgelt näidatud SQL/Python oskused ja kasutamise näited varasemates projektid
 Esinenud probleemide lahendused on välja toodud
 Projektide lõpptulemused on selgelt sõnastatud
 
-
 Punased lipud
 
 Puudub kogemus SQL/Python/R kasutamisel
@@ -38,6 +37,27 @@ Punased lipud
 Portfooliot ei ole kaua aega uuendatud
 Projektides puudub täpne lõpplahendus
 Portfoolios on liiga palju ebakvaliteetseid projekte
+
+1.7 Tehniliste oskuste hindamine tiimijuhi vaates 
+
+Andmeanalüütiku iseseisvust näitab võime probleeme lahendada, koodi loogiline struktuur ja täpsed kommentaarid, mis loovad arusaama tehnilisest pädevusest. Vigade parandamine on vajalik pädevus, et projekte teha ning nendes õnnestuda. Koodi loogiline struktuur näitab, et mõistetakse koodimise baasvajadusi ning osatakse nendele vastavalt käituda.
+
+Kommunikatsioonivõimet näitab oskus enda varasemat kogemust efektiivselt sõnastada. Täpsed kommentaarid võimaldavad andmeanalüütiku mõttekäike mõista, mis tõendavad iseseisvat mõtlemisvõimet. Ka koodi loetavus mängib siin suurt rolli. Lõpptulemuse selge sõnastus on samuti oluline kommunikatsiooni osa andmeanalüütiku pagasis. Kuna UrbanStyle´s palkab ka välismaale inimesi, siis on inglise keele oskus oluline.
+
+Koostööd näitab varasem kogemus grupitöödes, kus isiku individuaalne sisend on välja toodud. Nii on võimalik analüüsida, kas tehtud töö on korrektselt kokku pandud ning kuidas andmeanalüütiku isiklik sisend selles rolli mängib. 
+
+Arengupotentsiaali puhul tuleb vaadata probleemide lahendamise oskust ning projektide tänapäevsust, et hinnata andmeanalüütiku võimet leida lahendus ning soovi oma portfooliot edendada. UrbanStyle´i kontekstis on areng väga olulise tähtsusega, sest tegemist on kiirelt kasvava ettevõttega.
+
+Rohelised lipud
+
+Kandidaadi tehnilised oskused on selgelt välja toodud
+Mõttekäik on loogiline ning selgitatud kommentaarides
+
+Punased lipud
+
+SQL/Pythoni kasutamise oskus on puudulik
+Puudub varasem projektikogemus
+Lõpptulemused puuduvad või ei ole sõnastatud
 
 1.8 Portfoolio hindamine tiimijuhi vaates 
 
