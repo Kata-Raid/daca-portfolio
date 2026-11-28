@@ -10,7 +10,7 @@
 - [Õppetund 2] Oskan valida sobiva diagrammi tüübi vastavalt esitavale infole
 
 ## Failid
-- 
+- [Investoride Dashboard]()
 
 ## Meeskonna töö
 - [W5_sessioon3_demo](https://docs.google.com/presentation/d/1aMea4C78ohhTKHd2bGgwj7r-7XA-iMjRVGsUb9kKnoM/edit?usp=sharing)
